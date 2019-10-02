@@ -4,6 +4,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 import guiDrill
+import guiDrill_func    
 
 class ParentWindow(Frame):
     def __init__(self, master, *args, **kwargs):
